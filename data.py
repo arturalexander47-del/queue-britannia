@@ -18,6 +18,8 @@ import numpy as np
 import pandas as pd
 
 DATA_DIR = Path(__file__).parent / "data"
+if not DATA_DIR.exists():  # files uploaded flat, without the data/ folder
+    DATA_DIR = Path(__file__).parent
 
 DEMO_COURTS = [
     # court, region, lat, lon, size (relative caseload)
