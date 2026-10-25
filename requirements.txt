@@ -1,0 +1,6 @@
+streamlit>=1.40
+plotly>=6.0
+pandas
+numpy
+scipy
+anthropic  # optional: Sir Humphrey via Claude if ANTHROPIC_API_KEY is set

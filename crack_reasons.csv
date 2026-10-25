@@ -1,0 +1,28 @@
+outcome,reason,share
+cracked,"Acceptable guilty plea(s) entered late, offered for the first time by the defence",0.34244579155980415
+ineffective,Overlisting (insufficient cases drop out/floater/backer not reached),0.11552809512706924
+cracked,"Acceptable guilty plea(s) to alternative new charge, first time offered by defence",0.06732338540452319
+cracked,Prosecution end case - insufficient evidence,0.06149452086733504
+ineffective,Defendant absent - did not proceed in absence (judicial discretion),0.04983679179295873
+ineffective,Prosecution not ready - other,0.044940545581720684
+cracked,Prosecution end case - witness absent/withdrawn,0.039111681044532526
+ineffective,Defence not ready - other,0.03794590813709489
+ineffective,Prosecution witness absent - other,0.030951270692469106
+ineffective,Defendant ill or otherwise unfit to proceed,0.026812776871065515
+ineffective,Defence not ready - disclosure problems (inc. late alibi notice),0.019235252972720916
+cracked,"Acceptable guilty plea(s) entered late, previously rejected by the prosecution",0.016670552576358126
+cracked,Prosecution end case - public interest grounds,0.015271625087432968
+ineffective,Prosecution advocate failed to attend,0.014921893215201678
+ineffective,Another case over-ran,0.010608533457682444
+ineffective,Defendant not produced by prisoner escort custody services,0.010433667521566799
+ineffective,Defence advocate failed to attend,0.010375378876194918
+ineffective,Prosecution advocate engaged in another trial,0.007752389834460247
+cracked,"Acceptable guilty plea(s) to alternative new charge, previously rejected by the prosecution",0.007402657962228958
+ineffective,Defence advocate engaged in other trial,0.007169503380741431
+ineffective,Prosecution failed to disclose unused evidence,0.0068197715085101425
+ineffective,Judge/magistrate availability,0.006586616927022616
+ineffective,"Defence increased time estimate, insufficient time for trial to start",0.006295173700163208
+ineffective,Insufficient jurors available,0.006120307764047563
+ineffective,Prosecution increased time estimate - insufficient time for trial to start,0.0057705758918162745
+ineffective,Defendant dismissed advocate,0.005712287246444393
+ineffective,Prosecution not ready - served late notice of additional evidence on defence,0.005362555374213103
